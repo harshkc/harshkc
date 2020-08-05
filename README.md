@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [harshkc.github.io](harshkc.github.io)
 
-- 💬 Ask me about **Universe, Flutter, Firebase, React.**
+- 💬 Ask me about **Astronomy, Flutter, Firebase, React.**
 
 - 📫 How to reach me : you don't 😌 ** 📩 : harsh.hkc@protonmail.com .**
 
