@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm not the friendly neighbourhood spiderman but I know my web well😉.</h1>
-<h3 align="center">Also a flutter developer, have a good eye for design and a music maniac.</h3>
+<h1 align="center">Flutter and React developer, have a good eye for design and a music maniac.</h1>
+<h3 align="center">Hi 👋, I'm not the friendly neighbourhood spiderman but I know my web well😉.</h3>
 
 - 🔭 I’m currently working on [Goalz App](https://github.com/harshkc/goalz)
 
