@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **We are in a simulation💻 (Yeah thats not funny😅).**
 
+<img src="https://github-readme-stats.vercel.app/api?username=harshkc&show_icons=true" alt="harshkc" /> </p>
+
 
 <p align="center">
 <a href="https://linkedin.com/in/harshkc1006" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="harshkc1006" height="20" width="20" /></a>
