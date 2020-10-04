@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **We are in a simulation💻 (Yeah thats not funny😅).**
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkc&count_private=true&show_icons=true&theme=radical"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshkc&count_private=true&show_icons=true"/>
 
 
 <p align="center">
