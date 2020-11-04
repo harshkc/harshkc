@@ -5,9 +5,9 @@
 
 - 👯 I’m looking to collaborate on [Flutter](https://github.com/flutter/flutter)
 
-- 👨‍💻 All of my projects are available at [harshkc.github.io](harshkc.github.io)
+- 👨‍💻 All of my projects are available at [harshkc.me](harshkc.me)
 
-- 💬 Ask me about **Astronomy, Flutter, Firebase, React.**
+- 💬 Ask me about **Universe, Flutter, Firebase, React.**
 
 - 📫 How to reach me : ** 📩 : harsh.hkc@protonmail.com .**
 
