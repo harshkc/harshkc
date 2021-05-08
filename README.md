@@ -1,6 +1,6 @@
 ## Hi there 👋, &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=harshkc.harshkc)
 
-I'm not the friendly neighbourhood spiderman but I know my web well😉. Flutter and React developer, have a good eye for design and a music maniac.
+I am harsh, not the friendly neighbourhood spiderman but know my web well. Flutter and React developer, have a good eye for design and a music maniac.
 
 <img align="right" alt="Developer GIF" src="https://github.com/harshkc/harshkc/blob/master/developer.gif?raw=true" width="400" height="auto" />
 
@@ -8,11 +8,11 @@ I'm not the friendly neighbourhood spiderman but I know my web well😉. Flutter
 
 - 👨‍💻 All of my projects are available at [harshkc](harshkc.me)
 
-- 💬 Ask me about **Flutter, Firebase, React.**
+- 💬 Ask me about Flutter, Firebase, React.
 
-- 📫 How to reach me : ** 📩 : harsh.hkc@protonmail.com .**
+- 📫 How to reach me : 📩 : harsh.hkc@protonmail.com .
 
-- ⚡ Fun fact : We are in a simulation💻.
+- ⚡ Fun fact : We are in a simulation 😜.
 
 #### 💻 I'm using these languages and tools 
 
