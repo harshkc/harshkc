@@ -6,7 +6,7 @@ I am harsh, not the friendly neighbourhood spiderman but know my web well. Love 
 
 - 🔭 I’m currently working on [Weathery](https://github.com/harshkc/weathery)
 
-- 👨‍💻 All of my projects are available at [harshkc](harshkc.me)
+- 👨‍💻 All of my projects are available at [harshkc](http://harshkc.me)
 
 - 💬 Ask me about Flutter, Firebase, React.
 
