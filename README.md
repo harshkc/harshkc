@@ -4,15 +4,15 @@ I am harsh, not the friendly neighbourhood spiderman but know my web well. Love 
 
 <img align="right" alt="Developer GIF" src="https://github.com/harshkc/harshkc/blob/master/developer.gif?raw=true" width="400" height="auto" />
 
-- 🔭 I’m currently working on [Weathery](https://github.com/harshkc/weathery)
+- 🔭 I’m currently working on [Epic React Workshop](https://github.com/harshkc/KCD-Workshop-Solutions)
 
 - 👨‍💻 All of my projects are available at [harshkc](http://harshkc.me)
 
-- 💬 Ask me about Flutter, Firebase, React.
+- 💬 Ask me about React, Flutter, Firebase.
 
 - 📫 How to reach me : 📩 : harsh.hkc@protonmail.com .
 
-- ⚡ Fun fact : We are in a simulation 😜.
+- ⚡ Fun fact : We are in a simulation.
 
 #### 💻 I'm using these languages and tools 
 
