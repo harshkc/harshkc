@@ -8,7 +8,7 @@ I am harsh, not the friendly neighbourhood spiderman but know my web well. Love 
 
 - 👨‍💻 All of my projects are available at [harshkc](http://harshkc.me)
 
-- 💬 Ask me about React, Flutter, Firebase.
+- 💬 Ask me about React, Flutter, Universe.
 
 - 📫 How to reach me : 📩 : harsh.hkc@protonmail.com .
 
