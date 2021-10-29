@@ -1,6 +1,8 @@
 ## Hi there 👋, &nbsp;![](https://visitor-badge.glitch.me/badge?page_id=harshkc.harshkc)
 
-I am harsh, not the friendly neighbourhood spiderman but know my web well. Love building mobile apps with Flutter also have a good eye for design and a music maniac in every means.
+I am harsh, not the friendly neighbourhood spiderman but know my web well. 
+
+Love building mobile apps with Flutter and web apps with React, also have a good eye for design and a music maniac in every means.
 
 <img align="right" alt="Developer GIF" src="https://github.com/harshkc/harshkc/blob/master/developer.gif?raw=true" width="400" height="auto" />
 
