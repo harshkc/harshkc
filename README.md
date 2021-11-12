@@ -6,9 +6,9 @@ Love building mobile apps with Flutter and web apps with React, also have a good
 
 <img align="right" alt="Developer GIF" src="https://github.com/harshkc/harshkc/blob/master/developer.gif?raw=true" width="400" height="auto" />
 
-- 🔭 I’m currently working on [Epic React Workshop](https://github.com/harshkc/KCD-Workshop-Solutions)
+- 🔭 I’m currently working on [Xbooks](https://github.com/harshkc/xbooks)
 
-- 👨‍💻 All of my projects are available at [harshkc](http://harshkc.me)
+- 👨‍💻 All of my projects are available at [harshkc](http://harshkc.tech)
 
 - 💬 Ask me about React, Flutter, Universe.
 
