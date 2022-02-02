@@ -6,7 +6,7 @@ Love building mobile apps with Flutter and web apps with React, also have a good
 
 <img align="right" alt="Developer GIF" src="https://github.com/harshkc/harshkc/blob/master/developer.gif?raw=true" width="400" height="auto" />
 
-- 🔭 I’m currently working on [Xbooks](https://github.com/harshkc/xbooks)
+- 🔭 I’m currently working on [Mpeace](https://github.com/harshkc/mpeace)
 
 - 👨‍💻 All of my projects are available at [harshkc](http://harshkc.tech)
 
@@ -14,7 +14,7 @@ Love building mobile apps with Flutter and web apps with React, also have a good
 
 - 📫 How to reach me : 📩 : harsh.hkc@protonmail.com .
 
-- ⚡ Fun fact : We are in a simulation.
+- ⚡ Fun fact : We are in a simulation made by a college student who got B- for the project.
 
 #### 💻 I'm using these languages and tools 
 
