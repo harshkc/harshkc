@@ -23,6 +23,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JS Variables 101: Var, Let and Const](https://dev.to/harshkc/a-swiss-army-knife-blog-for-js-variables-var-or-let-or-const-1cd1)
+- [Stop Building Your UI Components like this❌](https://dev.to/harshkc/stop-building-your-ui-components-like-this-19il)
+- [Creating A Flip Book Animation With React: The declarative way](https://dev.to/harshkc/creating-a-flip-book-animation-with-react-the-declarative-way-4kgb)
+- [A Quick Guide to Testing Custom React Hooks](https://dev.to/harshkc/a-quick-guide-to-testing-custom-react-hooks-48ce)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
