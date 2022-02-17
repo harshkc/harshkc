@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Not the friendly neighborhood spider-man but I know my web well.</h3> 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=harshkc.harshkc)
-
 <img align="right" alt="Developer GIF" src="https://github.com/harshkc/harshkc/blob/master/developer.gif?raw=true" width="400" height="auto" />
 
 - 🔭 I’m currently working on [Vibes](https://github.com/harshkc/Vibes)
