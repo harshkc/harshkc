@@ -3,11 +3,11 @@
 
 <img align="right" alt="Developer GIF" src="https://github.com/harshkc/harshkc/blob/master/developer.gif?raw=true" width="400" height="auto" />
 
-- 🔭 I’m currently working on [Vibes](https://github.com/harshkc/Vibes)
+- 🔭 I’m currently working on [idlefy](https://github.com/redbus-labs/idlefy)
 
 - 🌱 I’m currently learning **Remix**
 
-- 👨‍💻 All of my projects are available at [harshkc.tech](https://harshkc.tech)
+- 👨‍💻 All of my projects are available at [harshkc.in](https://harshkc.in)
 
 - 📝 I regularly write articles on [dev.to/harshkc](https://dev.to/harshkc)
 
